@@ -21,7 +21,7 @@ Berikut adalah bahasa pemrograman dan alat yang saya gunakan sehari-hari. *(Ikon
 <div align="center">
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,sass,git,vscode,figma" alt="Tech Stack Reff" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,react,tailwind,laravel,git,vscode,figma" alt="Tech Stack Reff" />
   </a>
   <br />
 </div>
